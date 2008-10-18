@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                AI-PSO-OO
-version:             1.000
+version:             1.001
 abstract:            OO Perl implementation of Particle Swarm Optimization
 license:             ~
 author:              
